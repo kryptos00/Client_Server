@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1587917156 source:d:\srikar\projects\summer intern-pramod sir\server\main.c
+	<winsock2.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<unistd.h>
+

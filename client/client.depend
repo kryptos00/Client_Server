@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1587916121 source:d:\study\cs\client\main.c
+	<winsock2.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<unistd.h>
+
